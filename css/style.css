@@ -107,8 +107,8 @@ header{
 }
 
 .about{
-    margin: 0 auto;
-    width: 70vw;
+    margin: 10vh auto;
+    background-color: rgb(239, 237, 237);
 }
 
 .about-pickup{
@@ -128,8 +128,8 @@ header{
 .about-content{
     display: flex;
     justify-content: space-around;
-    width: 100%;
-    margin-top: 30px;
+    width: 70%;
+    margin: 30px auto 30px;
     position: relative;
 }
 
@@ -220,7 +220,7 @@ header{
 
 .blog{
     width: 70vw;
-    margin: 0 auto;
+    margin: 10vh auto;
 }
 
 .blog-pickup{
